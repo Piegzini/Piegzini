@@ -40,7 +40,7 @@
 <br/>  
 
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="right" />
+<img src="https://komarev.com/ghpvc/?username=piegzini&&style=flat-square" align="left" />
 </div>  
 
 
